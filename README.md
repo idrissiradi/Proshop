@@ -1,4 +1,4 @@
-# MERN Shopping cart app
+# Proshop MERN Shopping cart app
 
 # Getting Started with Create React App
 
