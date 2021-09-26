@@ -110,7 +110,6 @@ const PlaceOrderScreen = ({ history }) => {
                                     ))}
                                 </ListGroup>
                             )}
-                            {cart.paymentMethod}
                         </ListGroup.Item>
                     </ListGroup>
                 </Col>
